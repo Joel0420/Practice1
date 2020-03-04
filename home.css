@@ -1,16 +1,17 @@
 body{
-    color: white;
+    color: #8e8d8a;
     text-align: center;
-    background-color: maroon; /* For browsers that do not support gradients */
-    background-image: linear-gradient(maroon, crimson); /* Standard syntax (must be last) */
+    background-color: #e3e2df; /* For browsers that do not support gradients */
+    /*background-image: linear-gradient(#e3e2df, crimson); !* Standard syntax (must be last) *!*/
 }
+
 
 ul {
     list-style-type: none;
     margin: 0px;
     padding: 10px;
     overflow: hidden;
-    background-color: white;
+    background-color: maroon;
     color: white;
 }
 
@@ -31,13 +32,13 @@ li a:hover {
     color: white;
 }
 
-h1 { color: #ffffff; font-family: 'Raleway',sans-serif; font-size: 62px; font-weight: 800; line-height: 72px; margin: 0 0 24px; text-align: center; text-transform: uppercase; }
+h1 { color: #e85a4f; font-family: 'overPass'; font-size: 62px; font-weight: 800; line-height: 72px; margin: 0 0 24px; text-align: center; text-transform: uppercase; }
 
 
 h2 { color: #ffffff; font-family: 'Raleway',sans-serif; font-size: 30px; font-weight: 800; line-height: 36px; margin: 0 0 24px; text-align: center; }
 
 
-p { color: #f8f8f8; font-family: 'Raleway',sans-serif; font-size: 18px; font-weight: 500; line-height: 32px; margin: 0 0 24px; }
+p { color: black; font-family: 'Raleway',sans-serif; font-size: 18px; font-weight: 500; line-height: 32px; margin: 0 0 24px; }
 
 .gamingTourney {
     margin-top: 30px;

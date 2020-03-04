@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d70b8e8d-2375-4520-9c78-13afee41d8ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/plogo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Activities.html" beforeDir="false" afterPath="$PROJECT_DIR$/Activities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +27,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Ycp3g1IPlJpSpki2bPz1n7n6ZQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -64,6 +72,7 @@
       <updated>1583251539208</updated>
       <workItem from="1583251541111" duration="5948000" />
       <workItem from="1583341922649" duration="495000" />
+      <workItem from="1583342426186" duration="1275000" />
     </task>
     <servers />
   </component>
@@ -75,10 +84,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
