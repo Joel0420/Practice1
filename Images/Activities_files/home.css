@@ -1,0 +1,54 @@
+body{
+    color: white;
+    text-align: center;
+    background-color: maroon; /* For browsers that do not support gradients */
+    background-image: linear-gradient(maroon, crimson); /* Standard syntax (must be last) */
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: white;
+    color: white;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: tomato;
+    color: white;
+}
+
+h1 { color: #ffffff; font-family: 'Raleway',sans-serif; font-size: 62px; font-weight: 800; line-height: 72px; margin: 0 0 24px; text-align: center; text-transform: uppercase; }
+
+
+h2 { color: #ffffff; font-family: 'Raleway',sans-serif; font-size: 30px; font-weight: 800; line-height: 36px; margin: 0 0 24px; text-align: center; }
+
+
+p { color: #f8f8f8; font-family: 'Raleway',sans-serif; font-size: 18px; font-weight: 500; line-height: 32px; margin: 0 0 24px; }
+
+.gamingTourney {
+    margin-top: 30px;
+    height: 30px;
+}
+
+.intramuralSports{
+    height: 500px;
+}
+
+.jumpstart{
+    margin-top: 10px;
+    height: 300px;
+}
