@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d70b8e8d-2375-4520-9c78-13afee41d8ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Images/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/plogo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/ICLogo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Academics.html" beforeDir="false" afterPath="$PROJECT_DIR$/Academics.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Activities.html" beforeDir="false" afterPath="$PROJECT_DIR$/Activities.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,9 +32,15 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -48,18 +56,6 @@
       <recent name="$PROJECT_DIR$/Images" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,6 +69,7 @@
       <workItem from="1583251541111" duration="5948000" />
       <workItem from="1583341922649" duration="495000" />
       <workItem from="1583342426186" duration="1275000" />
+      <workItem from="1583344938336" duration="2317000" />
     </task>
     <servers />
   </component>

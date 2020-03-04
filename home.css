@@ -11,7 +11,7 @@ ul {
     margin: 0px;
     padding: 10px;
     overflow: hidden;
-    background-color: maroon;
+    /*background-color: maroon;*/
     color: white;
 }
 
@@ -38,11 +38,12 @@ h1 { color: #e85a4f; font-family: 'overPass'; font-size: 62px; font-weight: 800;
 h2 { color: #ffffff; font-family: 'Raleway',sans-serif; font-size: 30px; font-weight: 800; line-height: 36px; margin: 0 0 24px; text-align: center; }
 
 
-p { color: black; font-family: 'Raleway',sans-serif; font-size: 18px; font-weight: 500; line-height: 32px; margin: 0 0 24px; }
+p { color: black; font-family: 'Raleway',sans-serif; font-size: 18px; font-weight: 500; line-height: 32px; margin-left: 100px; margin-right: 100px; background-color: lightgray; font-size: 150%}
 
-.gamingTourney {
+
+.gamingtourney {
+    height: 450px;
     margin-top: 30px;
-    height: 30px;
 }
 
 .intramuralSports{
@@ -50,8 +51,7 @@ p { color: black; font-family: 'Raleway',sans-serif; font-size: 18px; font-weigh
 }
 
 .jumpstart{
-    margin-top: 10px;
-    height: 300px;
+    height: 500px;
 }
 
 .button{
